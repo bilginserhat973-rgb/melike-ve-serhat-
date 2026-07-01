@@ -1,0 +1,1 @@
+GitHub'a bu dosyalari yukleyin ve Pages'i etkinlestirin.
